@@ -1,7 +1,7 @@
 # Quench-Random-Spin
 
 ## Contents
-This repository contains codes for plotting Fig.1,2,4 in the paper *Emergent Universal Quench Dynamics in Randomly Interacting Spin Models*.
+This repository contains codes for plotting figures in the main text and the supplementary material, in the paper *Emergent Universal Quench Dynamics in Randomly Interacting Spin Models*.
 
 - Packages
 
