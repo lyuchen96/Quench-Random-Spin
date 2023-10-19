@@ -18,6 +18,8 @@ This repository contains codes for plotting figures in the main text and the sup
   - **FigureS4**: Plotting codes of Fig. S4.
  
   - **FigureS5**: Plotting codes of Fig. S5.
+ 
+  - **FigureS6**: Calculation and Plotting codes of Fig. S6.
    
 ## Dependence
 
@@ -53,6 +55,11 @@ This repository contains codes for plotting figures in the main text and the sup
 - **FigureS5**
     - Run `Process.mlx` to plot Fig. S5.
 
+- **FigureS6**
+    - Run `NumericalCalculation.mlx` to calculate the data used for Fig.S6. The adjustable parameters are: "nqubit"--number of qubits; "ave"--number of disorder realizations; "tau_seq"--the set of average pulse interval "tau".
+    - Acknowledgements: the two subfunctions below are downloaded from Matlab open resources:
+      David Terr (2023). ClebschGordan.m (https://www.mathworks.com/matlabcentral/fileexchange/5276-clebschgordan-m), MATLAB Central File Exchange. Retrieved October 19, 2023.
+      Kobi (2023). Wigner3j symbol (https://www.mathworks.com/matlabcentral/fileexchange/20619-wigner3j-symbol), MATLAB Central File Exchange. Retrieved October 19, 2023.
  
 ## Contact
 
