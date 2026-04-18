@@ -87,4 +87,4 @@ This repository contains codes for plotting figures in the main text and the sup
    
 ## Contact
 
-Email: lyuchen@mail.ustc.edu.cn or mrtuhao232@gmail.com
+Email: lyuchen@mail.ustc.edu.cn
